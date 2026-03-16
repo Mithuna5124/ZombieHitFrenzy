@@ -1,6 +1,6 @@
 ﻿# Zombie Hit Frenzy
-**Personal Portfolio Version**
-**Dhiyanesh G — IIT Guwahati**
+**Associate Game Developer Test**
+**Mithuna K — IIT Guwahati**
 
 ---
 
