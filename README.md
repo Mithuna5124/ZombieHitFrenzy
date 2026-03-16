@@ -13,7 +13,7 @@
 ---
 
 ## How to Play
-Tap the title screen to start. Touch and drag anywhere to drive. Drag direction steers the car. Hit zombies to score. Restart from the end screen.
+Touch and drag anywhere to drive. Drag direction steers the car. Hit zombies to score. Restart from the end screen.
 
 ---
 
