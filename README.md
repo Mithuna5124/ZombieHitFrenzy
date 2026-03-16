@@ -1,5 +1,4 @@
 ﻿# Zombie Hit Frenzy
-**Associate Game Developer Test**
 **Mithuna K — IIT Guwahati**
 
 ---
